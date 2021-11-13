@@ -1,6 +1,6 @@
 # NodeJs ToDo's
 
-> ToDo app in an interactive console
+> Interactive console ToDo app
 
 ## Dependencies
 
